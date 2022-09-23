@@ -13,7 +13,7 @@ Link to My Tableau Dashboard Here
 ## Project Overview
 ### Resources
 Youtube - codebasics - Tableau Project For Beginners | Sales Insight Playlist
-* website: [Tableau Project For Beginners] (https://www.youtube.com/watch?v=CCNd2fUfFkk&list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL)
+* website: [Tableau Project For Beginners](https://www.youtube.com/watch?v=CCNd2fUfFkk&list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL)
 * Data for the project was provided by codebasics.
 
 ### Language/Platform/Libraries
