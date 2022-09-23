@@ -29,7 +29,7 @@ Youtube - codebasics - Tableau Project For Beginners | Sales Insight Playlist
 5. Dashboard Improvement and Customer Feedback
 
 ## Project Description
-The sales are declining for the company AtliQ Hardware. The Sales Director is meeting up the regional managers to figure out what the issue is. The Regional Managers are not being direct with the status of their sales and provid the sales director with multiple excel sheets of sales data. The Sales Director has assighted the task to use the excel sheets provided by the Regional Managers and provide a dashboard in Tableau with the year to date revenue, top customers and weakest regions. The stakeholders are the Sales Director, Marketing Team, Customer Service Team, Data and Analytics Team and IT.
+The sales are declining for the company AtliQ Hardware. The Sales Director is meeting up the regional managers to figure out what the issue is. The Regional Managers are not being direct with the status of their sales and provid the sales director with multiple excel sheets of sales data. The Sales Director has assigned the task to use the excel sheets provided by the Regional Managers to create an interatice dashboard in Tableau with the year to date revenue, top customers and weakest regions. The stakeholders are the Sales Director, Marketing Team, Customer Service Team, Data and Analytics Team and IT.
 
 ### Data Cleaning, Analysis and Visualization
 
